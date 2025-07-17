@@ -30,7 +30,6 @@ const createFiles = () => {
         const filename = `${baseName}.${type}`;
         if (fs.existsSync(filename)) {
             console.log(`${filename} already exists! Skipping.`);
-            // Or ask the user if they want to overwrite (extra challenge!)
         } else {
             let content = '';
             if (type === 'html') {
