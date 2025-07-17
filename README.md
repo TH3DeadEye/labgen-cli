@@ -16,13 +16,13 @@ Clone this repository and make the script executable:
 ```bash
 git clone https://github.com/TH3DeadEye/labgen-cli.git
 cd labgen-cli
-chmod +x labgen-cli.js
+chmod +x index.js
 ````
 
 (Optional) To use it globally:
 
 ```bash
-sudo cp labgen-cli.js /usr/local/bin/labgen
+sudo cp index.js /usr/local/bin/labgen
 ```
 
 ## Usage
