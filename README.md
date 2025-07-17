@@ -30,7 +30,7 @@ sudo cp index.js /usr/local/bin/labgen
 In your project directory, run:
 
 ```bash
-./labgen-cli.js lab9_closure js html
+./index.js lab9_closure js html
 ```
 
 or, if installed globally:
